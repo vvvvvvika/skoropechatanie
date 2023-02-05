@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cj9gHxfRLxv09tEpBdcm02wDFS3OZN1RScHgeAhRXUEMRgYIDgU8fx9KQ4dtfrgWxnWpDyfzCugJVgq69QnS4g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gramo\\OneDrive\\Рабочий стол\\практические\\plr--8.2-main\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gramo\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
